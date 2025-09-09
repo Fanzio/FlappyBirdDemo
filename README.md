@@ -1,2 +1,2 @@
 # FlappyBirdDemo
-Demo di Flappy Bird
+FlappyBirdDemo Questa è una demo del classico gioco Flappy Bird, sviluppata per scopi di apprendimento. L’obiettivo è semplice: far volare l’uccellino il più a lungo possibile evitando gli ostacoli e cercando di ottenere il punteggio più alto. Caratteristiche Gameplay 2D semplice e immediato. Meccanica di salto con fisica base. Generazione casuale degli ostacoli. Sistema di punteggio in tempo reale. Giocabile su PC. Controlli PC: premi la barra spaziatrice per far saltare l’uccellino.
