@@ -7,9 +7,9 @@ punteggio più alto.
 ## 🎮 Caratteristiche principali
 
 - Gameplay 2D semplice e immediato.  
-- Salto con fisica realistica, facile da imparare.  
+- Salto con fisica realistica.  
 - Ostacoli generati casualmente per ogni partita.  
-- Punteggio in tempo reale, sfida te stesso!  
+- Punteggio in tempo reale.  
 - Effetti sonori.  
 - Giocabile su PC senza installazioni.  
 
